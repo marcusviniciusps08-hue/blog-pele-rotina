@@ -1,21 +1,21 @@
 # Beleza sem Complicação
 
-> Guias, comparativos e reviews de beleza e cuidado pessoal com informação clara, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de beleza e cuidado pessoal com informação clara, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 cabelos até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cabelos-ate-70/)
-- [5 cuidados com a pele até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cuidados-com-a-pele-ate-40/)
-- [5 escovas elétricas de cabelo até R$ 100: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/escovas-eletricas-de-cabelo-ate-100/)
-- [4 perfumes até R$ 90: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/perfumes-ate-90/)
-- [5 suplementos até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/suplementos-ate-60/)
+- [4 cabelos até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cabelos-ate-40/)
+- [5 cuidados com a pele até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cuidados-com-a-pele-ate-40/)
+- [5 escovas elétricas de cabelo até R$ 110: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/escovas-eletricas-de-cabelo-ate-110/)
+- [4 perfumes até R$ 90: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/perfumes-ate-90/)
+- [5 suplementos até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/suplementos-ate-60/)
 
 ## Guias
-- [Como escolher item para cabelos: o que olhar na ficha antes de gastar (de R$ 35,94 a R$ 429,90)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-item-para-cabelos/)
-- [Como escolher cuidado com a pele: o que olhar na ficha antes de gastar (de R$ 19 a R$ 89)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-cuidado-com-a-pele/)
-- [Como escolher escova elétrica: o que olhar na ficha antes de gastar (de R$ 75 a R$ 149,90)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-escova-eletrica/)
-- [Como escolher perfume: o que olhar na ficha antes de gastar (de R$ 27,90 a R$ 399,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-perfume/)
+- [Como escolher item para cabelos: o que olhar na ficha antes de gastar (de R$ 35,94 a R$ 366)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-item-para-cabelos/)
+- [Como escolher cuidado com a pele: o que olhar na ficha antes de gastar (de R$ 19 a R$ 87,60)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-cuidado-com-a-pele/)
+- [Como escolher escova elétrica: o que olhar na ficha antes de gastar (de R$ 76,51 a R$ 149,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-escova-eletrica/)
+- [Como escolher perfume: o que olhar na ficha antes de gastar (de R$ 27,90 a R$ 451,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-perfume/)
 - [Como escolher suplemento: o que olhar na ficha antes de gastar (de R$ 21,69 a R$ 154,90)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-suplemento/)
 
 ## Reviews
@@ -25,7 +25,6 @@ Contém links de afiliado Mercado Livre.
 - [Escova Progressiva 150g - Fashion Gold: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/escova-progressiva-150g-fashion-gold-dabcbb/)
 - [Gel Fixador De Penteados P/ Cabelos Cabelereiros 750g: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/gel-fixador-de-penteados-p-cabelos-cabelereiros-750g-38c35e/)
 - [Gelatina #todecacho Super Definição Salon Line 1 Kg: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/gelatina-todecacho-super-definicao-salon-line-1-kg-a35961/)
-- [Kit Wella Invigo Nutri Enrich Shampoo E Condicionador em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/kit-wella-invigo-nutri-enrich-shampoo-e-condicionador-9ab199/)
 - [L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/l-oreal-paris-elseve-collagen-lifter-mascara-de-tratamento-c01194/)
 - [Creme Hidratante Facial Principia Ch-01 Karité Glicerina 50g: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/creme-hidratante-facial-principia-ch-01-karite-glicerina-50g-3d4da3/)
 - [Dermaroller Derma Roller Syetem 540 Agulhas Arte da: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/dermaroller-derma-roller-syetem-540-agulhas-arte-da-bdea11/)
@@ -43,6 +42,9 @@ Contém links de afiliado Mercado Livre.
 - [Escova Secadora Britânia BES35 Nanocerâmica 1300W Bivolt Alisadora: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/escova-secadora-britania-bes35-nanoceramica-1300w-bivolt-alisadora-5dfef2/)
 - [Escova Secadora Britânia Nanocerâmica 1300W Infrared BES24P Bivolt: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/escova-secadora-britania-nanoceramica-1300w-infrared-bes24p-bivolt-3a6030/)
 - [Escova Secadora By Juliette ES-JU-01 3 em 1: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/escova-secadora-by-juliette-es-ju-01-3-em-1-ce9e24/)
+- [Creme Hidratante Facial 5% Manteiga de Karité +: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/creme-hidratante-facial-5-manteiga-de-karite-221619/)
+- [Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/kit-dupla-renovadores-faciais-kokeshi-pele-porcelana-olhos-b064d1/)
+- [Protetor Solar FPS 30 50 e 70 Proteção em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/protetor-solar-fps-30-50-e-70-protecao-f707c1/)
 - [Attracione Men perfume Masculino Com Feromônios Ativados 25: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/attracione-men-perfume-masculino-com-feromonios-ativados-25-c90a8e/)
 - [Body Splash My Sweet Delight Barbour's Beauty 200ml em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/body-splash-my-sweet-delight-barbour-s-beauty-200ml-76ba1b/)
 - [Colônia Cebolinha Turma Da Mônica 25ml em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/review/colonia-cebolinha-turma-da-monica-25ml-cf6d50/)
