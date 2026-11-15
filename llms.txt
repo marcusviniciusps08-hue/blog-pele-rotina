@@ -5,17 +5,17 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [3 cabelos até R$ 70: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cabelos-ate-70/)
-- [5 cuidados com a pele até R$ 40: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cuidados-com-a-pele-ate-40/)
-- [5 escovas elétricas de cabelo até R$ 100: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/escovas-eletricas-de-cabelo-ate-100/)
-- [3 perfumes até R$ 110: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/perfumes-ate-110/)
-- [4 suplementos até R$ 50: comparativo com preços de 14/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/suplementos-ate-50/)
+- [3 cabelos até R$ 60: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cabelos-ate-60/)
+- [5 cuidados com a pele até R$ 40: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/cuidados-com-a-pele-ate-40/)
+- [5 escovas elétricas de cabelo até R$ 100: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/escovas-eletricas-de-cabelo-ate-100/)
+- [3 perfumes até R$ 110: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/perfumes-ate-110/)
+- [4 suplementos até R$ 50: comparativo com preços de 15/11](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/top/suplementos-ate-50/)
 
 ## Guias
-- [Como escolher item para cabelos: o que olhar na ficha antes de gastar (de R$ 32,45 a R$ 386,10)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-item-para-cabelos/)
-- [Como escolher cuidado com a pele: o que olhar na ficha antes de gastar (de R$ 16,50 a R$ 77,43)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-cuidado-com-a-pele/)
-- [Como escolher escova elétrica: o que olhar na ficha antes de gastar (de R$ 68,94 a R$ 149,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-escova-eletrica/)
-- [Como escolher perfume: o que olhar na ficha antes de gastar (de R$ 55 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-perfume/)
+- [Como escolher item para cabelos: o que olhar na ficha antes de gastar (de R$ 29,90 a R$ 386,10)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-item-para-cabelos/)
+- [Como escolher cuidado com a pele: o que olhar na ficha antes de gastar (de R$ 16,50 a R$ 77)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-cuidado-com-a-pele/)
+- [Como escolher escova elétrica: o que olhar na ficha antes de gastar (de R$ 68,94 a R$ 149,90)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-escova-eletrica/)
+- [Como escolher perfume: o que olhar na ficha antes de gastar (de R$ 55,76 a R$ 429,99)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-perfume/)
 - [Como escolher suplemento: o que olhar na ficha antes de gastar (de R$ 21,69 a R$ 78,90)](https://marcusviniciusps08-hue.github.io/blog-pele-rotina/guia/como-escolher-suplemento/)
 
 ## Reviews
